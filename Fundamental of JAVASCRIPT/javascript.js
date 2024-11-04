@@ -1,1 +1,2 @@
-console.log("Start to JAvascript");
+let a="Start Java Script";
+console.log(a);
