@@ -1,0 +1,257 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* Header Styles */
+header {
+    background-color: #fff;
+    padding: 20px 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo img {
+    height: 90px;
+    margin-left: 200px;
+}
+
+.logo span {
+    font-size: 18px;
+    color: #333;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 50px;
+    margin-right: 800px;
+    font-size: 20px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+
+.signup-btn {
+    background-color: #007BFF;
+    padding: 8px 16px;
+    border-radius: 25px;
+}
+.signup-btn a {
+        color: white;
+}
+
+.contact-us {
+    background-color: #f4f4f4;
+    padding: 50px 0;
+    text-align: center;
+    
+}
+
+.container2 {
+    width: 100%;
+    height: 510px;
+    background-image: url(background.png);
+    background-size: cover;
+    display: flex;
+    
+}
+
+.container21 {
+    width: 1250px;
+    height: 160px;
+    background-image: url(contactus.png);
+    background-size: cover;
+    margin-top: 150px;
+    margin-left: ;
+}
+
+.container22 {
+    width: 500px;
+    height: 470pxpx;
+    background-image: url(boy.png);
+    background-size: cover;
+   
+}
+
+
+
+
+.apply{
+    height: 1380px;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.experiance{
+    height: 1000px;
+    width: 1600px;
+    background-image: url(background2.png);
+    background-size: cover;
+    display: flex;
+    
+}
+.call{
+    width: 442px;
+    height: 450px;
+    background-image: url(calling.png);
+    background-size: cover;
+    margin-top: 20%;
+    margin-left: 8%;
+}
+
+.middleform{
+    width: 800px;
+    height: 900px;
+    line-height: 60px;
+    background-image: url(white2.png);
+    background-size: cover;
+    position: absolute;
+    left: 46.5%;
+    top: 83%;
+}
+    
+.account{
+   
+    font-size: 40px;
+    font-weight: 600;
+    
+}
+.account2{
+    
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: -35px;
+   
+}
+.form1{
+    width: 800px;
+    height: 400px;
+    display: flex;
+    
+}
+
+.form11{
+    width: 400px;
+    height: 400px;
+    
+}
+
+.form22{
+    width: 400px;
+    height: 400px;
+    
+    
+}
+
+
+.input{
+  line-height: 0px;
+  margin-left: -60%;
+
+}
+.input1{
+    line-height: 0px;
+    height: 40px;
+    
+    width: 300px;
+  }
+
+.submit{
+    width: 80px;
+    height: 30px;
+    background-color: rgba(36, 146, 235, 1);
+    color: white;
+    
+}
+
+.center{
+    width: 60px;
+    height: 150px;
+    background-image: url(whitemiddle.png);
+    background-size: cover;
+    border-radius: 25px;
+    position: absolute;
+    right: 52%;
+    top: 1350px;
+
+
+}
+.icon{
+    width: 33px;
+    height: 30px;
+    font-size: 25px;
+    margin-top: 6px;
+
+}
+
+
+.blank{
+    width: 100%;
+    height: 2020px;
+    background-color: white;
+}
+
+
+.blank1{
+    height: 500px;
+    width: 100%;
+    background-color: white;
+}
+.intern{
+    width: 370px;
+    height: 130px;
+    background-image: url(new\ MMDU\ Community\ \ 3.png);
+    background-size: cover;
+    margin-left: 45%;
+}
+.contact{
+    width: 100%;
+    height: 130px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.add{
+    font-size: 35px;
+
+}
+
+.contact2{
+    display: flex;
+    justify-content: center;
+}
+
+.copy{
+    width: 100%;
+    height: 75px;
+    background-color: #081646;
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+}
+.cpy{
+    color: white;
+    font-size: 25px;
+}
