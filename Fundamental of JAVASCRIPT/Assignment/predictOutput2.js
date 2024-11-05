@@ -14,3 +14,25 @@ console.log(result2)
 
 // 9
 // 18
+
+
+
+
+// Guess the Output:
+// The output will be 18.
+
+// Explanation:
+// Exponentiation Operator (**):
+
+// In the expression a ** b, the ** operator raises a to the power of b.
+// So, 3 ** 2 means 
+// 3
+// 2
+// 3 
+// 2
+//  , which equals 9.
+// Multiplication:
+
+// After calculating 3 ** 2, the result is 9.
+// Now, we multiply this result by 2:
+// 9 * 2 equals 18.
