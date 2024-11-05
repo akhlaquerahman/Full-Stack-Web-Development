@@ -1,0 +1,44 @@
+                         1. What do you mean by single threaded and multiple threaded programming 
+                            language give example.?
+                         
+1. Single-Threaded Programming:
+Definition: A single-threaded programming language or environment can only execute one task or thread at a time. This means that each task must finish before the next one can start. The program follows a linear sequence of execution.
+Example: JavaScript, when running in a web browser, is single-threaded by default. This is managed through its event loop which handles tasks one at a time in a queue.
+Advantage: Simplicity of implementation, easier to debug and maintain.
+Disadvantage: It may not fully utilize the CPU's capabilities, especially on multi-core systems, and can become less efficient when performing multiple, long-running tasks.
+2. Multi-Threaded Programming:
+Definition: Multi-threaded programming allows multiple threads to be executed concurrently, meaning a program can perform multiple operations at once. Each thread runs as an independent path of execution within the program, sharing the same memory space.
+Example: Java is a language that supports multi-threaded programming. The Thread class and the Runnable interface allow developers to create programs that execute multiple threads simultaneously.
+Advantage: Can lead to better CPU utilization, faster execution of programs, and improved performance for complex tasks like processing large data sets or handling many simultaneous user requests.
+Disadvantage: More complex to write and manage, with potential issues such as race conditions, deadlocks, and difficulties in debugging.
+Comparison:
+Single-threaded programs are simpler and are often adequate for tasks where concurrent execution is not required.
+Multi-threaded programs provide better performance for tasks that can be executed in parallel but require careful handling to avoid concurrency issues.
+Example Code for Illustration:
+
+Single-threaded (JavaScript):
+
+javascript code
+
+console.log("Task 1");
+console.log("Task 2");
+console.log("Task 3");
+Tasks run sequentially, one after the other.
+
+Multi-threaded (Java):
+
+java code
+
+public class MultiThreadExample extends Thread {
+    public void run() {
+        System.out.println("Thread " + Thread.currentThread().getId() + " is running");
+    }
+
+    public static void main(String[] args) {
+        for (int i = 0; i < 5; i++) {
+            MultiThreadExample thread = new MultiThreadExample();
+            thread.start(); // Starts a new thread
+        }
+    }
+}   
+
