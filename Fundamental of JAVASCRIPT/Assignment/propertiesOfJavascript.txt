@@ -1,0 +1,61 @@
+                            6. Write the properties of JavaScript?
+
+
+1. Lightweight and Easy to Use:
+JavaScript is a simple language that runs directly in the browser without extra steps. This makes it easy to use and fast to run.
+
+2. Flexible with Variables:
+You don’t have to tell JavaScript what type of data a variable is. For example, a variable can hold a number and then change to a word later.
+
+javascript code
+
+let item = 10;     // It's a number now
+item = "Hello";    // Now it's a string
+
+3. Works with Objects:
+JavaScript lets you use objects, which are like containers that hold related data and functions. This helps organize your code better.
+
+4. Responds to Events:
+JavaScript can make things happen when a user interacts with a web page, like clicking a button or moving the mouse.
+
+javascript  code
+
+document.getElementById("myButton").onclick = function() {
+    alert("Button clicked!");
+};
+5. Functions are Important:
+In JavaScript, functions are very powerful. You can create them, store them in variables, and use them in many ways.
+
+javascript code
+
+function sayHi(name) {
+    return "Hi, " + name;
+}
+6. Shares Features with Other Programs:
+JavaScript lets one object take on properties from another object. This helps you reuse code.
+
+7. Can Run Tasks Simultaneously:
+JavaScript can handle tasks without waiting for other tasks to finish, like loading data while still responding to user clicks.
+
+javascript  code
+
+fetch('https://example.com/data')
+    .then(response => response.json())
+    .then(data => console.log(data));
+
+8. Works Everywhere:
+JavaScript runs on all web browsers and works across different operating systems, so it’s great for making websites that work for everyone.
+
+9. Used for Both Front-End and Back-End:
+JavaScript is used to make web pages interactive (front-end) and can also run on servers (back-end) using Node.js.
+
+10. Lots of Built-in Tools:
+JavaScript comes with many built-in functions and tools for things like working with text, dates, and more.
+
+11. Can Change Web Pages:
+JavaScript can update the content of a web page without reloading the whole page, making websites interactive and fun.
+
+javascript code
+
+document.getElementById("text").innerText = "Welcome to JavaScript!";
+
