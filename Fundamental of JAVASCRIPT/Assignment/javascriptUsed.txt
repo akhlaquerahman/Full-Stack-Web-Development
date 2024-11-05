@@ -1,4 +1,4 @@
-                        Where JavaScript is used? 
+                        5. Where JavaScript is used? 
 
 JavaScript is a versatile programming language primarily known for its role in web development, 
  JavaScript is commonly used:

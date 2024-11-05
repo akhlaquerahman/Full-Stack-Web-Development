@@ -1,0 +1,13 @@
+                                4. What do you mean by interpreted and compiled language give example?
+
+1. Interpreted Language:
+Definition: An interpreted language is one where the code is executed line by line by an interpreter. The interpreter reads the code, translates it, and runs it immediately without needing a separate compilation step.
+Example:
+Python: When you run a Python script, the Python interpreter reads the code line by line, translating and executing it on the fly.
+JavaScript: In web browsers, JavaScript code is interpreted by the browser’s JavaScript engine (like Chrome’s V8 engine).
+
+2. Compiled Language:
+Definition: A compiled language is one where the code is translated into machine code by a compiler before it is run. The compiler converts the entire program into a standalone executable file that the computer can run.
+Example:
+C: The C compiler translates C code into machine code, creating an executable file (.exe or similar) that can run directly on the computer.
+Java: Although Java uses an intermediate step, it’s compiled to bytecode first by the Java compiler and then run by the Java Virtual Machine (JVM).
