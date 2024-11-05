@@ -1,0 +1,23 @@
+                        2. What do understand by statically typed and dynamically typed 
+                           programming language? Give example 
+
+1. Statically Typed Programming Languages:
+Definition: In statically typed languages, the data type of a variable is determined at compile-time (when the code is checked before it runs). Once a variable's type is set, it cannot change.
+Example:
+Java: When you declare a variable, you need to specify its type, and it can't be changed later.
+
+java code
+
+int number = 10; // 'number' can only store integers
+number = "Hello"; // This would cause an error
+
+
+2. Dynamically Typed Programming Languages:
+Definition: In dynamically typed languages, the data type of a variable is determined at runtime (when the code runs). You don't have to specify the type of the variable when you write the code, and the type can change as the program runs.
+Example:
+Python: You don't need to declare a type; it changes based on what you assign to it.
+
+python code
+
+value = 10       # 'value' is an integer now
+value = "Hello"  # Now 'value' is a string
