@@ -1,0 +1,13 @@
+                    3. What do understand by low level and high-level languages programming 
+                        language? 
+
+1. Low-Level Programming Languages:
+Definition: Low-level languages are closer to machine code, which is the binary code that computers understand. They provide very little abstraction from the computer’s hardware and allow for more direct control of the system’s resources.
+Types:
+Machine Language: The most basic level of code, written in binary (0s and 1s). It is specific to a computer’s CPU architecture.
+Assembly Language: A step above machine code, it uses human-readable mnemonics (like MOV, ADD) to represent machine-level instructions.
+Examples: Assembly language (e.g., x86 assembly).
+
+2. High-Level Programming Languages:
+Definition: High-level languages are closer to human language and further from machine code. They provide more abstraction and simplify programming by handling many hardware-specific details for the developer.
+Examples: Python, Java, C++, JavaScript, and Ruby.
