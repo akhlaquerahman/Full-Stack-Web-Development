@@ -11,3 +11,9 @@ console.log(sum)
 else{
     console.log("it is negative number")
 }
+
+
+// Output
+
+// it is positive number
+// 45
