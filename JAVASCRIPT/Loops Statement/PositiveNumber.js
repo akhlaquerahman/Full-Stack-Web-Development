@@ -13,7 +13,7 @@ else{
 }
 
 
-// /*   Output
+/*   Output
 
-//     it is positive number
-//     45                             */
+    it is positive number
+    45                             */
