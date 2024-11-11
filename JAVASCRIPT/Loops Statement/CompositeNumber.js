@@ -7,6 +7,6 @@ for(let i=2;  i<n-1; i++){
     }
 }
 
-/* Output
+// /* Output
 
-its composite   */
+// its composite   */
