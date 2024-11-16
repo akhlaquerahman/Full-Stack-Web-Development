@@ -4,3 +4,9 @@ function argument(a,b){         //parameter
 }
 
 argument(5,3)                   //Argument
+
+
+/*      Output
+
+        2
+                    */
