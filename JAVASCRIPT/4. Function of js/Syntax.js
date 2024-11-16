@@ -4,3 +4,11 @@ function greeting(){
 greeting();
 greeting();
 greeting();
+
+/*      Output
+
+        Hello, World!
+        Hello, World!
+        Hello, World!
+   
+                        */                 
