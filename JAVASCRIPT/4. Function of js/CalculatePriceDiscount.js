@@ -5,3 +5,8 @@ function discount(price,discount=10){
 }
 
 console.log(discount(100))
+
+/*      Output
+
+        90
+                    */
