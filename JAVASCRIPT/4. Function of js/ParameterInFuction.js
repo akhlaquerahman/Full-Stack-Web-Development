@@ -6,7 +6,7 @@ function argument(a,b){         //parameter
 argument(5,3)                   //Argument
 
 
-/*      Output
+// /*      Output
 
-        2
-                    */
+//         2
+//                     */
