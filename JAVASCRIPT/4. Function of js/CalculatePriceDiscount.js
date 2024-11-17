@@ -6,7 +6,7 @@ function discount(price,discount=10){
 
 console.log(discount(100))
 
-/*      Output
+// /*      Output
 
-        90
-                    */
+//         90
+//                     */
