@@ -4,7 +4,7 @@ function add(a=5,b=6){    //defoult parameter
 
 console.log(add())
 
-// /*      Output
+/*      Output
 
-//         11
-//                     */
+        11
+                    */
