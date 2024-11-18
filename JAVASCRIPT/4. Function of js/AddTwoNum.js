@@ -8,7 +8,7 @@ function add(){
 
 add()
 
-// /*  Output
+/*  Output
 
-//        13 
-//                 */
+       13 
+                */
