@@ -5,7 +5,7 @@ function convert(c){
 
 console.log(convert(25))
 
-// /*      Output
+/*      Output
 
-//         77
-//                     */
+        77
+                    */
