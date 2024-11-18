@@ -5,7 +5,7 @@ console.log(area)
 }
 area(5,6)
 
-// /*      Output
+/*      Output
 
-//         30
-//                     */
+        30
+                    */
