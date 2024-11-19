@@ -11,4 +11,4 @@ const factorial = (a) => {
 
 }
 
-console.log(factorial(2))
+console.log(factorial(2))  
