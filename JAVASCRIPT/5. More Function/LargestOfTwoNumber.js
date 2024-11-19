@@ -7,4 +7,4 @@ const largest = (a,b) => {
     }
 
 }
-console.log(largest(4,8))
+console.log(largest(4,8))   
