@@ -1,6 +1,6 @@
-// const add = a => console.log(a)   //one liner Arrow Function
+/*   const add = a => console.log(a)   //one liner Arrow Function
 
-// add(5)
+     add(5)   */
 
 
 const add = (a,b) =>  a+b  //one liner Arrow Function
