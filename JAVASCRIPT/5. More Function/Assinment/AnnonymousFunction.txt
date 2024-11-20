@@ -1,9 +1,8 @@
 6. Anonymous Function :-
 
-Anonymous Function besically Used Automatically call the Function.
+Annonymous Function is used to define a function without any name
 
-Syntax:
-
-( () => {
-    // Function Body...
-} )();
+const a = function () {     //Annonymous Function Without Name Function is known as Annonymous Function
+    return "Hello, World!";
+}
+console.log(a())
