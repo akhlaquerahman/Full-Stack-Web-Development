@@ -1,0 +1,12 @@
+2. Argument :-
+The arguments is an object which is local to a function. You can think of it as a local variable that is available
+with all functions by default except arrow functions in JavaScript. This object (arguments) is used to access the
+parameter passed to a function.
+
+
+function argument(a,b){         //parameter
+    let sub = a-b;
+    console.log(sub)
+}
+
+argument(5,3)                   //Argument
