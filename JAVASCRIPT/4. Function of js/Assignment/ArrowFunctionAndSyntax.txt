@@ -1,0 +1,10 @@
+5. Arrow function and its syntax :-
+
+Arrow function besically use to short the funtion 
+
+Syntax
+const abc = () => {
+    console.log( "Hi friend!" );
+}
+
+abc()
