@@ -1,0 +1,10 @@
+4. Default Arguments  :-
+
+JavaScript default parameters allow function arguments to be initialized with default values if no value or
+undefined is passed. When a function is called with fewer arguments than there are parameters, the missing
+parameters get the value of their corresponding default parameters.
+
+
+function myFunction (x, y = 2) {
+  // function code
+}
