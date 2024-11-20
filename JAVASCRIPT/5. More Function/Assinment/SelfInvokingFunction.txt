@@ -1,0 +1,11 @@
+8. Self-invoking function :-
+
+The self-executing anonymous function is a special function which is invoked right after it is defined. There is no need to call this function anywhere in the script. This type of function has no name and hence it is called an anonymous function. The function has a trailing set of parenthesis. The parameters for this function could be passed in the parenthesis. 
+
+Syntax:
+
+(function (parameters) {
+    // Function body
+})(arguments);
+
+                                        IIFF - Immediatly invoke Function expression
