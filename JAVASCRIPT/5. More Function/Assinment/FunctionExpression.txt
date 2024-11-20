@@ -14,4 +14,4 @@ Syntax:
 
 ( () => {
     // Function Body...
-} )();
+} )(); 
