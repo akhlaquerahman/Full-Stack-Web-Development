@@ -1,0 +1,12 @@
+1. Function and its syntax :-
+The function in JavaScript is a block of code which can be called multiple times from our program. It
+takes arguments, performs some operation and returns a value. The syntax of function in JavaScript is as follows
+
+Syntax :-  
+
+function function_name(parameters)
+{
+    //body of function
+    }
+
+    
