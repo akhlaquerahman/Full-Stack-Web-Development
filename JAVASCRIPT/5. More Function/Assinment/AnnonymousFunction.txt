@@ -1,0 +1,9 @@
+6. Anonymous Function :-
+
+Anonymous Function besically Used Automatically call the Function.
+
+Syntax:
+
+( () => {
+    // Function Body...
+} )();
