@@ -8,5 +8,3 @@ function function_name(parameters)
 {
     //body of function
     }
-
-    
