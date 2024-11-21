@@ -5,6 +5,6 @@ undefined is passed. When a function is called with fewer arguments than there a
 parameters get the value of their corresponding default parameters.
 
 
-function myFunction (x, y = 2) {
+function myFunction (x, y = 2) {  
   // function code
 }
