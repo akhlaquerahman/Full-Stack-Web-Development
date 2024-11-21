@@ -9,4 +9,4 @@ function argument(a,b){         //parameter
     console.log(sub)
 }
 
-argument(5,3)                   //Argument
+argument(5,3)                   //Argument  
