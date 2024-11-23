@@ -12,3 +12,4 @@ const factorial = (a) => {
 }
 
 console.log(factorial(2))  
+
