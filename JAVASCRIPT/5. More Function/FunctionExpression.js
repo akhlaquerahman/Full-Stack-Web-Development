@@ -2,3 +2,4 @@ const a = function () {      //Function Store in Variale is also known as functi
     console.log("Hey How are you")
 }
 a()  
+
