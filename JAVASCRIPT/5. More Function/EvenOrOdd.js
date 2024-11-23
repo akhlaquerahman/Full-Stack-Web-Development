@@ -10,4 +10,3 @@ else
 }
 
 console.log(evenOrOdd(5))  
-
