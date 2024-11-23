@@ -3,3 +3,4 @@ const Minnute = (a) => {
 }
 
 console.log(Minnute(2))    
+
