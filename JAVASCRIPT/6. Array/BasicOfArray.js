@@ -4,4 +4,3 @@
 
 const arr = ["Hello", "Akhlaque","Rahman"]
 console.log(arr) 
-
