@@ -3,4 +3,4 @@
 // console.log(arr[0]) // 1
 
 const arr = ["Hello", "Akhlaque","Rahman"]
-console.log(arr)               
+console.log(arr)              
